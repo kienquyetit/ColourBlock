@@ -1,0 +1,173 @@
+
+levelatlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+level_bg
+  rotate: false
+  xy: 1, 157
+  size: 500, 341
+  orig: 500, 341
+  offset: 0, 0
+  index: -1
+lock0001
+  rotate: false
+  xy: 1, 79
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0002
+  rotate: false
+  xy: 503, 422
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0003
+  rotate: false
+  xy: 1, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0004
+  rotate: false
+  xy: 67, 79
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0005
+  rotate: false
+  xy: 503, 344
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0006
+  rotate: false
+  xy: 569, 422
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0007
+  rotate: false
+  xy: 67, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0008
+  rotate: false
+  xy: 133, 79
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0009
+  rotate: false
+  xy: 503, 266
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+lock0010
+  rotate: false
+  xy: 569, 344
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0001
+  rotate: false
+  xy: 635, 422
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0002
+  rotate: false
+  xy: 133, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0003
+  rotate: false
+  xy: 199, 79
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0004
+  rotate: false
+  xy: 503, 188
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0005
+  rotate: false
+  xy: 569, 266
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0006
+  rotate: false
+  xy: 635, 344
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0007
+  rotate: false
+  xy: 701, 422
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0008
+  rotate: false
+  xy: 199, 1
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0009
+  rotate: false
+  xy: 265, 79
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlock0010
+  rotate: false
+  xy: 569, 188
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlockbg1
+  rotate: false
+  xy: 635, 266
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlockbg2
+  rotate: false
+  xy: 701, 344
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+unlockbg3
+  rotate: false
+  xy: 767, 422
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
